@@ -28,6 +28,7 @@ function dec(n) {
 }
 a=dec(a);
 
+var a = 1;
 function makeInt(n) {
   return makeInt(a.toString());
 }
