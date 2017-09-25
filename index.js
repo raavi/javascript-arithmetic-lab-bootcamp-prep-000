@@ -14,9 +14,16 @@ function divide(a, b) {
   return a / b;
 }
 
-var a = 0
+var a = 0;
 function inc(n) {
-  n++
+  n++;
   return n;
 }
 a=inc(a);
+
+var a = 0;
+function dec(n) {
+  n--;
+  return n;
+}
+a=dec(a);
