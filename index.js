@@ -19,4 +19,4 @@ function inc(n) {
   n++
   return n;
 }
-a=inc(a)
+a=inc(a);
